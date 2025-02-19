@@ -1,6 +1,6 @@
 # 独角数卡 dujiaoka usdt 支付插件 Epusdt
-GitHub [stilleshan/dockerfiles](https://github.com/Gilinfen/dockerfiles/epusdt)  
-Docker [stilleshan/epusdt](https://hub.docker.com/r/Gilinfen/epusdt)
+GitHub [Gilinfen/dockerfiles](https://github.com/Gilinfen/dockerfiles/tree/main/epusdt)  
+Docker [Gilinfen/epusdt](https://hub.docker.com/r/Gilinfen/epusdt)
 > *docker image support for X86 and ARM*
 
 
